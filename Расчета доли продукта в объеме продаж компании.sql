@@ -67,6 +67,7 @@ FROM tmp_distribution_drivers d
 CROSS JOIN tmp_version_context v;
 
 
--- В итоге, получается таблица final_distribution, которая содержит распределительные коэффициенты
+-- В итоге, получается таблица final_distribution, которая содержит долю продукта в объеме продаж компании
 
 SELECT * FROM final_distribution;
+
