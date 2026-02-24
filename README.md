@@ -43,6 +43,8 @@
 **Стек:**  
 `PostgreSQL`
 
+---
+
 ## 3. CRM Sales Funnel Analytical Mart
 
 **Описание:**
